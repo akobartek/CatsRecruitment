@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cats</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_try_again">Try again</string>
+
+    <string name="no_internet_dialog_title">No internet connection</string>
+    <string name="no_internet_dialog_message">An error with connection occurred, do you want to try again?</string>
+</resources>
